@@ -19,7 +19,7 @@ const Hero = () => {
         style={{ paddingLeft: 40, paddingRight: 40 }}
       >
         <Typography variant="h4" color="inherit" style={{ marginBottom: 20 }}>
-          Virtual Healthcare for you
+          SPB
         </Typography>
 
         <Typography variant="subtitle1" style={{ marginBottom: 30 }}>
